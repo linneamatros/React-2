@@ -1,0 +1,27 @@
+  
+{
+  "users": [
+    {
+      "email": "anna@mail.com",
+      "password": "hakunaMATATA",
+      "firstName": "Anna",
+      "lastName": "Modig",
+      "admin": true,
+      "id": 1
+    },
+    {
+      "email": "assar@mail.com",
+      "password": "IngaBekymmer123",
+      "firstName": "Assar",
+      "lastName": "Turesson",
+      "id": 2
+    },
+    {
+      "email": "gullan@mail.com",
+      "password": "BibidiBabidiBO",
+      "firstName": "Gunilla",
+      "lastName": "Svenman",
+      "id": 3
+    }
+  ]
+}
